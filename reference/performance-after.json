@@ -1,0 +1,69 @@
+{
+  "wearable": {
+    "frames": 107,
+    "averageMs": 16.826168224340847,
+    "over50ms": 0,
+    "LayoutCount": 0,
+    "RecalcStyleCount": 214,
+    "LayoutDuration": 0,
+    "RecalcStyleDuration": 0.100988,
+    "TaskDuration": 0.773428
+  },
+  "neural": {
+    "frames": 109,
+    "averageMs": 16.525688073394488,
+    "over50ms": 0,
+    "LayoutCount": 0,
+    "RecalcStyleCount": 0,
+    "LayoutDuration": 0,
+    "RecalcStyleDuration": 0,
+    "TaskDuration": 0.5292370000000002
+  },
+  "updates": {
+    "frames": 90,
+    "averageMs": 20.172222222238776,
+    "over50ms": 1,
+    "LayoutCount": 2,
+    "RecalcStyleCount": 2,
+    "LayoutDuration": 0.0011600000000000499,
+    "RecalcStyleDuration": 0.00034199999999995345,
+    "TaskDuration": 1.0974829999999995
+  },
+  "state": {
+    "webgl": true,
+    "particles": 5000,
+    "quality": "low",
+    "pixelRatio": 0.85,
+    "renderStats": {
+      "ringDraws": 122,
+      "chromeDraws": 96,
+      "chromeResizes": 1,
+      "frames": 358
+    },
+    "sections": {
+      "wearable": {
+        "top": 0,
+        "height": 1139
+      },
+      "neural": {
+        "top": 1139,
+        "height": 1097
+      },
+      "programs": {
+        "top": 2237,
+        "height": 1688
+      },
+      "updates": {
+        "top": 3925,
+        "height": 1983
+      },
+      "prompts": {
+        "top": 5908,
+        "height": 1224
+      }
+    },
+    "scroll": 4551,
+    "reducedMotion": false
+  },
+  "errors": []
+}
