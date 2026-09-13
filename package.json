@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
-    "build": "node --check dist/app.js",
-    "check": "node --check server.mjs && node --check dist/app.js"
+    "build": "node --check dist/main.js",
+    "check": "node --check server.mjs && node --check dist/main.js"
   }
 }
