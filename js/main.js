@@ -1,5 +1,5 @@
-import * as THREE from './vendor/three.module.js';
-import {RoomEnvironment} from './vendor/RoomEnvironment.js';
+import * as THREE from '../vendor/three.module.js';
+import {RoomEnvironment} from '../vendor/RoomEnvironment.js';
 
 const $=(s,root=document)=>root.querySelector(s), $$=(s,root=document)=>[...root.querySelectorAll(s)];
 const clamp=(v,a=0,b=1)=>Math.max(a,Math.min(b,v));
