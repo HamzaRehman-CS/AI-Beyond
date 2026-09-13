@@ -1,4 +1,9 @@
 data/
 node_modules/
-
 .vercel
+server.mjs
+package.json
+verify.cjs
+reference/
+vercel.json
+.vercelignore
