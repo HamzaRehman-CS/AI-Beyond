@@ -1,1 +1,11 @@
-{"name":"superconscious-recreation","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs","check":"node --check server.mjs && node --check dist/app.js"}}
+{
+  "name": "ai-beyond",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node --check dist/app.js",
+    "check": "node --check server.mjs && node --check dist/app.js"
+  }
+}
